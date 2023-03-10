@@ -1,4 +1,4 @@
-# How to add 360 videos
+# How to add 360 pictures
 
 Take a picture from the following positions
 
